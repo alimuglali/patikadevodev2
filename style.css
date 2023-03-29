@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+}
+
+.googleicon {
+    text-align: center;
+}
+
+.content {
+    margin-right: 70px;
+    margin-left: 70px;
+}
+
+.search {
+    text-align: center;
+    background-color: rgb(238, 238, 238);
+}
+
+.linkpart {
+    display: grid;
+    grid-template-columns: 35% 20% 45%;
+    gap: 5px;
+    margin-top: 3px;
+}
+
+.linkpart div {
+    background-color: rgb(126, 229, 218);
+    text-align: center;
+}
+
+.box11 {
+    margin-top: 5px;
+}
+
+.box2 {
+    font-size: small;
+}
+
+.box22 {
+    margin-top: 5px;
+}
+
+.box3 {
+    background-color: rgb(98, 179, 170);
+    font-size: small;
+}
+
+.footer {
+    text-align: center;
+    margin: 20px;
+}
